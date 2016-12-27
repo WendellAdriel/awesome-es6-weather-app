@@ -4,13 +4,15 @@
 
 ## How to use
 
-- Clone/Fork this repository
+- **Clone/Fork** this repository
 
 - Install the dependencies
 
 ```
 npm i
 ```
+
+- Create an account or login to the one you have in https://openweathermap.org/ to get you `API KEY` and place it in the `API_KEY` constant in `assets/js/https.js` file.
 
 - Run the project
 
