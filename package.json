@@ -1,0 +1,27 @@
+{
+  "name": "awesome-es6-weather-app",
+  "version": "1.0.0",
+  "description": "Simple and small project only to show how to use some ES6 features together in a real project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WendellAdriel/awesome-es6-weather-app.git"
+  },
+  "keywords": [
+    "javascript",
+    "es6"
+  ],
+  "author": "Wendell Adriel <contact@wendelladriel.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WendellAdriel/awesome-es6-weather-app/issues"
+  },
+  "homepage": "https://github.com/WendellAdriel/awesome-es6-weather-app#readme",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  }
+}
